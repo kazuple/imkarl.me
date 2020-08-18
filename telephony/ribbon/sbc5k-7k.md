@@ -2,7 +2,7 @@
 title: SBC 5000 & 7000
 description: 
 published: true
-date: 2020-08-18T19:37:18.791Z
+date: 2020-08-18T19:37:50.033Z
 tags: 
 editor: markdown
 ---
@@ -12,4 +12,4 @@ editor: markdown
 - PSX - Policy and Routing
 - ePSX - Embedded Policy and Routing
 - EMA -  Embedded Management Application is a Web-based interface management system for configuring SBC servers.
-- BMC - Baseboard Management Controller
+- BMC - Baseboard Management Controller allows for system monitoring, power control, and configuring the Management Ports of the SBC. 
