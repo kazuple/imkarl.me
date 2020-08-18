@@ -2,9 +2,9 @@
 title: Teams
 description: 
 published: true
-date: 2020-08-07T15:08:38.095Z
+date: 2020-08-18T18:21:59.003Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Categories
@@ -15,6 +15,7 @@ editor: undefined
 {.links-list}
 ## Networking
 - [Network *Requirements*](https://wiki.imkarl.me/en/microsoft/office-365/teams/network)
+- [Signalling *Initiation*](https://wiki.imkarl.me/en/microsoft/office-365/teams/signalling)
 {.links-list}
 ## Devices
 - [Devices *Teams Devices*](https://wiki.imkarl.me/en/microsoft/office-365/teams/devices)
