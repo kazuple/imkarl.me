@@ -2,7 +2,7 @@
 title: Licensing
 description: 
 published: true
-date: 2020-08-30T20:23:51.908Z
+date: 2020-08-30T20:26:20.890Z
 tags: 
 editor: markdown
 ---
@@ -15,3 +15,6 @@ editor: markdown
 - Live events support for up to 20,000 participants, 50 concurrent events, event duration of 16 hours per broadcast
 - Compliance recording integration (ISV)
 - Contact Center solution integration (ISV)
+> ISV = Independant Software Vendor, will require license for 3rd party software and licenses in Teams
+{.is-info}
+
