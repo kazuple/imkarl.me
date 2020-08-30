@@ -2,8 +2,8 @@
 title: Licensing
 description: 
 published: true
-date: 2020-08-30T20:32:35.465Z
-tags: 
+date: 2020-08-30T20:34:47.852Z
+tags: advanced communications, microsoft teams, licensing
 editor: markdown
 ---
 
