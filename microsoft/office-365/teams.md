@@ -2,7 +2,7 @@
 title: Teams
 description: 
 published: true
-date: 2020-08-18T18:21:59.003Z
+date: 2020-08-30T20:19:41.329Z
 tags: 
 editor: markdown
 ---
@@ -33,6 +33,7 @@ editor: markdown
 {.links-list}
 ## Misc
 - [Policy *Policy Configuration in Teams*](https://wiki.imkarl.me/en/microsoft/office-365/teams/policy)
+- [Licensing *Teams Specific Licensings*](https://wiki.imkarl.me/en/microsoft/office-365/teams/licensing)
 {.links-list}
 # Tools
 - [Dial Plan Generator](https://www.ucdialplans.com/)
