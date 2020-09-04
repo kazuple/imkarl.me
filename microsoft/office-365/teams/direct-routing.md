@@ -2,9 +2,9 @@
 title: Direct Routing
 description: 
 published: true
-date: 2020-08-10T14:58:45.621Z
+date: 2020-09-04T08:21:21.046Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -97,6 +97,9 @@ New-CsOnlineVoiceRoute -Name "UK-Local" -Priority 0 -OnlinePstnUsages "UK-Local"
 - MC = **Media Controller**. This is a microservice in Azure that assigns Media Processors and creates Session Description Protocol (SDP) offers.
 - MP = **Media Processor**. This is a public facing component that handles media in non-bypass cases and handles media for voice applications.
 - SIP Proxy = SIP Proxy is a component that translates HTTP REST signaling used in Teams to SIP.
+
+## Local Media Optimisation
+https://www.youtube.com/watch?v=liQg37lX7yg
 
 # Misc
 ## Microsoft Root Certificate 
