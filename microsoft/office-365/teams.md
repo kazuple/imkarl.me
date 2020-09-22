@@ -2,9 +2,10 @@
 title: Teams
 description: 
 published: true
-date: 2020-08-30T20:33:48.103Z
+date: 2020-09-22T10:28:01.993Z
 tags: 
 editor: markdown
+dateCreated: 2020-06-08T20:01:40.987Z
 ---
 
 # Categories
@@ -32,6 +33,7 @@ editor: markdown
 - [Microsoft Teams Rooms *Meeting room devices*](https://wiki.imkarl.me/en/microsoft/office-365/teams/mtr)
 {.links-list}
 ## Misc
+- [Team Creation *Creating Teams*](https://wiki.imkarl.me/en/microsoft/office-365/teams/team-creation)
 - [Policy *Policy Configuration in Teams*](https://wiki.imkarl.me/en/microsoft/office-365/teams/policy)
 - [Licensing *Teams Specific Licensings*](https://wiki.imkarl.me/en/microsoft/office-365/teams/licensing)
 {.links-list}
