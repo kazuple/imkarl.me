@@ -2,10 +2,16 @@
 title: Client
 description: 
 published: true
-date: 2020-06-21T17:32:09.347Z
+date: 2020-09-22T09:55:17.782Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-06-21T17:31:51.793Z
 ---
+
+# Updates
+Teams desktop client updates are released every two weeks after rigorous internal testing and validation. 
+
+If a critical update is required, Teams will bypass this schedule and release the update as soon as it’s available.
 
 # Windows
 ## Firewall/UAC Prompt
