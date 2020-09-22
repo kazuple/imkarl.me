@@ -2,7 +2,7 @@
 title: Governance
 description: 
 published: true
-date: 2020-09-22T09:46:33.620Z
+date: 2020-09-22T09:47:42.547Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-07T15:00:33.536Z
@@ -52,6 +52,10 @@ Some administrative roles are exempted from those policies:
 - PnP PowerShell
 
 # Life Cycle Management
-[lifecycle.png](/lifecycle.png)
+1. Initiate
+2. Active
+3. Sunset
+
+![lifecycle.png](/lifecycle.png)
 
 
