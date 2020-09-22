@@ -2,9 +2,10 @@
 title: Governance
 description: 
 published: true
-date: 2020-08-07T16:02:37.099Z
+date: 2020-09-22T09:46:33.620Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-08-07T15:00:33.536Z
 ---
 
 > Good governance is the balance of productivity and security!
@@ -50,6 +51,7 @@ Some administrative roles are exempted from those policies:
 > https://techcommunity.microsoft.com/t5/microsoft-teams-blog/create-teams-quickly-with-templates-in-microsoft-teams/ba-p/1394163
 - PnP PowerShell
 
-
+# Life Cycle Management
+[lifecycle.png](/lifecycle.png)
 
 
