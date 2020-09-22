@@ -2,7 +2,7 @@
 title: Governance
 description: 
 published: true
-date: 2020-09-22T09:47:42.547Z
+date: 2020-09-22T09:47:48.604Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-07T15:00:33.536Z
@@ -46,10 +46,6 @@ Some administrative roles are exempted from those policies:
 - Deleted groups can be restored within 30 days.
 - One expiration policy per tenant.
 - Policy can applyed to all groups or selected groups.
-
-# Microsoft Teams Templating (as of 08/2020)
-> https://techcommunity.microsoft.com/t5/microsoft-teams-blog/create-teams-quickly-with-templates-in-microsoft-teams/ba-p/1394163
-- PnP PowerShell
 
 # Life Cycle Management
 1. Initiate
