@@ -2,16 +2,23 @@
 title: Client
 description: 
 published: true
-date: 2020-09-22T09:55:17.782Z
+date: 2020-09-22T09:56:31.850Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-21T17:31:51.793Z
 ---
 
 # Updates
-Teams desktop client updates are released every two weeks after rigorous internal testing and validation. 
+## Desktop
+- Teams desktop client updates are released every two weeks after rigorous internal testing and validation. 
 
-If a critical update is required, Teams will bypass this schedule and release the update as soon as it’s available.
+> If a critical update is required, Teams will bypass this schedule and release the update as soon as it’s available.
+{.is-info}
+
+
+
+## Web App
+- The Teams web app is updated weekly.
 
 # Windows
 ## Firewall/UAC Prompt
