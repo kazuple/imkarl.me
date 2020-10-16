@@ -2,7 +2,7 @@
 title: Teams
 description: 
 published: true
-date: 2020-09-30T08:15:42.777Z
+date: 2020-10-16T08:10:14.004Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-08T20:01:40.987Z
@@ -56,6 +56,7 @@ dateCreated: 2020-06-08T20:01:40.987Z
 - [Teams Adoption Flipbook](https://teamworktools.azurewebsites.net/tft)
 - [Microsoft Teams Adoption](https://docs.microsoft.com/en-us/microsoftteams/)
 - [Microsoft Teams Demo](https://teamsdemo.office.com/)
+- [Microsoft Teams Training Videos](https://support.microsoft.com/en-gb/office/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7)
 {.links-list}
 
 ## Roadmap
