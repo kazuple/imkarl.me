@@ -2,7 +2,7 @@
 title: Teams
 description: 
 published: true
-date: 2020-10-16T08:10:14.004Z
+date: 2020-12-02T09:45:58.177Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-08T20:01:40.987Z
@@ -47,8 +47,9 @@ dateCreated: 2020-06-08T20:01:40.987Z
 # Tools
 - [Dial Plan Generator](https://www.ucdialplans.com/)
 - [Tenant ID Lookup](https://www.whatismytenantid.com/result)
-- [Request a Team *PowerApp*](https://github.com/OfficeDev/microsoft-teams-apps-requestateam
-)
+- [Request a Team *PowerApp*](https://github.com/OfficeDev/microsoft-teams-apps-requestateam)
+- [Direct Routing Tool](https://www.myteamslab.com/2019/02/microsoft-teams-direct-routing-tool.html)
+
 {.links-list}
 
 # Links
