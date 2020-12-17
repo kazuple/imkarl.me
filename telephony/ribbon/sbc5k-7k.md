@@ -2,7 +2,7 @@
 title: SBC 5000 & 7000
 description: 
 published: true
-date: 2020-12-17T11:25:31.683Z
+date: 2020-12-17T11:30:58.187Z
 tags: 
 editor: markdown
 dateCreated: 2020-08-18T19:21:04.235Z
