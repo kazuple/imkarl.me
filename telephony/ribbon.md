@@ -2,15 +2,16 @@
 title: Ribbon
 description: 
 published: true
-date: 2020-08-25T11:05:41.893Z
+date: 2020-12-17T11:16:48.499Z
 tags: 
 editor: markdown
+dateCreated: 2020-06-18T08:32:03.696Z
 ---
 
 # Categories
 - [Transformation Rules](https://wiki.imkarl.me/en/telephony/ribbon/transformation-rules)
 - [ISDN Migration](https://wiki.imkarl.me/en/telephony/ribbon/isdn-migration)
-- [SBC 5000/7000](https://wiki.imkarl.me/en/telephony/ribbon/sbc5k-7k)
+- [SBC Core](https://wiki.imkarl.me/en/telephony/ribbon/sbc5k-7k)
 {.links-list}
 
 # Tools
